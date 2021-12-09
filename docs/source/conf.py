@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'PHP Klarna'
 copyright = '2021, vrajroham'
 author = 'vrarjroham'
 
